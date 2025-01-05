@@ -1,0 +1,18 @@
+*{
+    margin: 10px;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    font-style: normal;
+    background-color: aqua;
+    text-align: center;
+    
+}
+span{
+    font-size: large;
+    
+}
+a{
+    color: blue;
+}
