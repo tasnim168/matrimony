@@ -16,3 +16,10 @@ span{
 a{
     color: blue;
 }
+p{
+    border:5px solid black;
+    padding:5px;
+}
+img{
+    box-shadow: 10px solid red;
+}
